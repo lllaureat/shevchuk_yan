@@ -1,2 +1,1 @@
-# shevchuk_yan
- 
+print"Hello World!"
